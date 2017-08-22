@@ -1,4 +1,4 @@
-image: "nodejs-express:<tag>"
+image: "nodejs-express:my-node-app1"
 port: 8080
 volume_mounts: null
-env_variables: []
+env_variables: t[]
